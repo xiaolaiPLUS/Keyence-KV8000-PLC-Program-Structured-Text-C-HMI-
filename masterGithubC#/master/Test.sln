@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyenceComunicationTest", "KeyenceComunicationTest\KeyenceComunicationTest.csproj", "{A34828AE-F59B-4043-B833-FFA1775DA71D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiAxisMotionControl0701", "WindowsFormsApp1\MultiAxisMotionControl0701.csproj", "{A1C82287-645B-446F-AADD-0C9550200964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34828AE-F59B-4043-B833-FFA1775DA71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34828AE-F59B-4043-B833-FFA1775DA71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34828AE-F59B-4043-B833-FFA1775DA71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34828AE-F59B-4043-B833-FFA1775DA71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C82287-645B-446F-AADD-0C9550200964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C82287-645B-446F-AADD-0C9550200964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C82287-645B-446F-AADD-0C9550200964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C82287-645B-446F-AADD-0C9550200964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142A84B6-8844-4322-9F07-29133560574C}
+	EndGlobalSection
+EndGlobal

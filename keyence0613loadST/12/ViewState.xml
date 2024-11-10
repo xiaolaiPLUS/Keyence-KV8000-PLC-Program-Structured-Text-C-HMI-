@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Version>1</Version>
+	<InternalMonitorLauncherViewState>
+		<Version>1</Version>
+		<IsShown>0</IsShown>
+		<PlcCode>57</PlcCode>
+		<WindowState>
+			<Top>344</Top>
+			<Left>804</Left>
+			<Width>312</Width>
+			<Height>362</Height>
+		</WindowState>
+		<Node>
+			<Group>AW</Group>
+			<Expanded>1</Expanded>
+		</Node>
+		<Node>
+			<Group>MEMCARD</Group>
+			<Expanded>1</Expanded>
+		</Node>
+		<Node>
+			<Group>LOGGING</Group>
+			<Expanded>1</Expanded>
+		</Node>
+		<Node>
+			<Group>OPERATIONRECORDER</Group>
+			<Expanded>1</Expanded>
+		</Node>
+	</InternalMonitorLauncherViewState>
+</Root>
