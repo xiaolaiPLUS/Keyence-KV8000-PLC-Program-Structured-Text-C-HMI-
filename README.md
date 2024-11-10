@@ -1,3 +1,31 @@
-# keyence-KV-8000-PLC-upper-link-communication-control-C-code-and-plc-ST-program-code.
-kv800的程序，包含plc的st语言程序和C#上位机的上位链路通信程序
+# Keyence KV8000 PLC Program (Structured Text & C# HMI)
+
+## 项目简介
+
+本项目提供了完整的解决方案，用于 Keyence KV8000 系列 PLC 的自动化控制程序，包含结构化文本（ST）和 C# 上位机（HMI）程序。结构化文本程序（ST）用于控制 PLC 中的硬件和执行自动化任务，而 C# 上位机程序用于与 PLC 通信，提供用户界面以便进行实时监控、控制和数据分析。
+
+## 关键功能
+
+- **结构化文本（ST）编程**：采用 IEC 61131-3 标准的结构化文本编程语言，便于实现 PLC 控制逻辑、输入输出处理、定时器和计数器等功能。
+- **C# 上位机程序**：使用 C# 编写的上位机程序提供了一个图形化用户界面（HMI），通过标准通信协议与 PLC 进行数据交换和监控。可以实现实时数据查看、远程控制以及报警通知。
+- **实时监控与控制**：通过上位机程序，用户可以查看 PLC 状态、监控传感器数据，并远程控制 PLC 输出。
+- **模块化设计**：结构化文本和 C# 代码都采用模块化设计，方便扩展和维护。
+
+## 安装与使用
+
+### 硬件要求
+- **Keyence KV8000 PLC**：请确保使用的是 Keyence KV8000 系列的 PLC 设备，并已正确连接至网络或计算机。
+- **计算机/上位机**：运行 C# 上位机程序的计算机或设备。
+
+### 软件要求
+- **Keyence KV Studio**：用于编写和上传结构化文本程序至 PLC。
+- **Visual Studio**：用于编译和运行 C# 上位机程序。
+
+### 安装步骤
+
+1. **克隆仓库**：
+   克隆本仓库到本地：
+   ```bash
+   git clone https://github.com/你的用户名/Keyence-KV8000-PLC-Program-Structured-Text.git
+
 C#的上位链路通信我也是在github上下载的别人的代码进行修改使用的，https://github.com/Keen1949/KeyenceComunication
